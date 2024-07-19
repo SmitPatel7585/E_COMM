@@ -1,3 +1,7 @@
+Student Name: SMIT KETANKUMAR PATEL
+Student Number: 8965581
+Date: 19 July 2024
+
 ##1 Technology Stack
 Frontend: React.js
 Backend : Node.js
